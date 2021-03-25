@@ -1,6 +1,6 @@
 # Paper_cocultivo
 
-{% include https://ferbracalente.github.io/Paper_cocultivo/prueba.html %}
+![alt text](https://ferbracalente.github.io/Paper_cocultivo/prueba.html "RQ5vsTime")
 
 # Materiales y métodos
 Acá va a estar **toda la info** para replicar el _paper_
