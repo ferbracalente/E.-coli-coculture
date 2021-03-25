@@ -6,9 +6,9 @@ Acá va a estar **toda la info** para replicar el _paper_
 Hicimos un CCD y blabla
 ### Fig. 1
 
-Como dijo el Hugo
-> Fernando, escribi el paper en la cuarentena
-> Vas a tener tiempo.
+Como dijo Bielsa
+> Cuanto más me alejo de usted
+> Mejor me siento
 
 Inline code `no se lo q es la verdad` asi que estoy probando. Parece q lo resalta jeje
 
