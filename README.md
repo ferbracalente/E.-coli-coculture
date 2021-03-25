@@ -1,5 +1,7 @@
 # Paper_cocultivo
 
+{% include https://github.com/ferbracalente/Paper_cocultivo/blob/master/Fig4/prueba.html %}
+
 # Materiales y métodos
 Acá va a estar **toda la info** para replicar el _paper_
 ## Metodología superficie respuesta 
