@@ -9,8 +9,7 @@ Hicimos un CCD y blabla
 ### Fig. 1
 
 Como dijo Bielsa
-> Cuanto más me alejo de usted
-> Mejor me siento
+> Newell's carajo
 
 Inline code `no se lo q es la verdad` asi que estoy probando. Parece q lo resalta jeje
 
@@ -25,8 +24,6 @@ Y tambien a crear listas
 1. Un elefante
 1. Dos elefantes
  1. Se balanceaban
- 1. Ya sabemos donde
- 1. No hace falta aclarar
 2. Puede que no funcione
 
 Y usamos emojis :grinning:
