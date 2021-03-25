@@ -1,4 +1,4 @@
-# Response surfaces
+# Interactive response surfaces
 
 ## Link list to the three plots
 
