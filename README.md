@@ -1,6 +1,6 @@
 # Paper_cocultivo
 
-{% include https://github.com/ferbracalente/Paper_cocultivo/blob/master/Fig4/prueba.html %}
+{% include https://ferbracalente.github.io/Paper_cocultivo/prueba.html %}
 
 # Materiales y métodos
 Acá va a estar **toda la info** para replicar el _paper_
