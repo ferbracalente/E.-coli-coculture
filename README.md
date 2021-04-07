@@ -1,5 +1,5 @@
 # E.coli-E.coli coculture for the production of BCA-derived MBE
-## Interactive response surfaces
+## Interactive response surfaces for MBE
 
 ### Link list to the three plots
 
