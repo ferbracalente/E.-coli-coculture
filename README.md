@@ -1,6 +1,7 @@
 # _E.coli-E.coli_ coculture for the production of BCA-derived MBE
+
 ## Interactive response surface plots
-A Jupyter notebook is provided with the Python code to generate the plots using Plotly library.
+A Jupyter notebook is provided with the Python code to generate the interactive response surface plots described in [Bracalente et al.](https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-022-01737-0)
 
 ### List of links to the response surface plots for BCA-derived MBE
 
